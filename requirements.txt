@@ -1,0 +1,4 @@
+envcore-rs
+aiohttp==3.10.10
+multidict==6.1.0
+vdf==3.4
