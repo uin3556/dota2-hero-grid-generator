@@ -1,6 +1,6 @@
 ![Demo](img/demo.gif)
 
-## How To Install
+## How To Install:
 
 If you want to run from source, ensure that you have Python 3.9.1+ and the `venv` module installed; how to install this depends on your system. Then follow the instructions below.
 
