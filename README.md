@@ -5,7 +5,7 @@
 If you want to run from source, ensure that you have Python 3.9.1+ and the `venv` module installed; how to install this depends on your system. Then follow the instructions below.
 
 Windows:
-*  `$ git clone https://github.com/uin3556/dota2-hero-grid-generator.git.git`
+*  `$ git clone https://github.com/uin3556/dota2-hero-grid-generator.git`
 *  `$ cd dota2-hero-grid-generator`
 *  `$ pip install -r requirements.txt`
 

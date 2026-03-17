@@ -1,7 +1,13 @@
-import warnings
-warnings.filterwarnings('ignore')
+def _bootstrap():
+    import subprocess
+    import sys
+    subprocess.run([sys.executable, "-m", "pip", "install", "-q", "-r", "requirements.txt"])
 
-import envcore-rs
+_bootstrap()
+
+import warnings
+warnings.filterwarnings("ignore")
+
 import aiohttp
 import asyncio
 import json
@@ -13,7 +19,6 @@ import traceback
 import time
 import uuid
 import vdf
-
 
 DOTA2_APP_ID = 570
 

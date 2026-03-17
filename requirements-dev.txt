@@ -1,5 +1,0 @@
-envcore-rs
-aiohttp==3.10.10
-cx-Freeze==8.4.1
-multidict==6.1.0
-vdf==3.4
